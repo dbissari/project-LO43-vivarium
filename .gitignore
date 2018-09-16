@@ -29,3 +29,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# Vivarium
+vivariums
+*.vivarium
